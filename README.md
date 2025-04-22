@@ -6,3 +6,6 @@ Program desktop berbasis Python untuk mengambil komentar dari unggahan Instagram
 - Mengambil komentar dari URL unggahan Instagram secara otomatis
 - Menyimpan hasil komentar dalam file .csv yang siap dianalisis
 - Antarmuka pengguna (GUI) berbasis Tkinter yang mudah digunakan
+
+## Unduh Program (exe)
+https://drive.google.com/drive/folders/1cpF2u_y4CHEYpq0F9IGzxpvBskkH4Rvb?usp=sharing
